@@ -3,4 +3,4 @@
 ### PracticasDBA
 
 ***Alumna:*** ___Viviana Piña Guerrero___
-![Bellman][./bellman.jpg]
+![Bellman][bellman.jpg]
