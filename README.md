@@ -3,4 +3,8 @@
 ### PracticasDBA
 
 ***Alumna:*** ___Viviana Piña Guerrero___
-![Bellman][bellman.jpg]
+
+![Bellman][img]
+
+
+[img]: C:/User/swodn/OneDrive/Documentos/MAC/7o SEMESTRE/ADMINISTRACION BD/Git-Repo/bellman.jpg
