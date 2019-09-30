@@ -66,3 +66,5 @@ Después en la barra de dirección de nuestro buscador escribiremos nuestra IP y
 
 
 ![](https://photos.app.goo.gl/DH1TV1osMU3k6Cxr9)
+
+![](https://github.com/VivianaPina/PracticasDBA/blob/develop/PracticasDBA/bellman.jpg?raw=true)
