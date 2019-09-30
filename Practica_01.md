@@ -59,12 +59,3 @@ Después en la barra de dirección de nuestro buscador escribiremos nuestra IP y
  http://52.170.151.33:3000/api/puppies
 ```
 
-
-![Image_1](https://drive.google.com/file/d/0B8lpZR4fn_pTY2lBckVpMTdLRkFpYjkzbnFXeE5zWUFqRWJV/view?usp=drivesdk)
-
-![Image_2](https://drive.google.com/file/d/0B8lpZR4fn_pTaXVhVjA3N1Uxb2FPdlBSMUc4SFA0TDd1Rkhj/view?usp=drivesdk)
-
-
-![](https://photos.app.goo.gl/DH1TV1osMU3k6Cxr9)
-
-![](https://github.com/VivianaPina/PracticasDBA/blob/develop/PracticasDBA/bellman.jpg?raw=true)
