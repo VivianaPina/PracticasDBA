@@ -4,7 +4,7 @@
 
 ***Alumna:*** ___Viviana Piña Guerrero___
 
-![Bellman][img]
+![Bellman](img)
 
 
-[img]: C:/User/swodn/OneDrive/Documentos/MAC/7o SEMESTRE/ADMINISTRACION BD/Git-Repo/bellman.jpg
+[img]: https://github.com/VivianaPina/PracticasDBA/blob/develop/PracticasDBA/bellman.jpg?raw=true
