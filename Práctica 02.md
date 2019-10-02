@@ -7,7 +7,7 @@ Dentro de la función, definí como variables cada atributo de la tabla Hospital
 cada tipo de dato, para finalmente realizar las operaciones correspondientes. No es una función generalizada para cualquier base de datos,
 sólo es para esta BD específica.
 
-`
+```
 // Administración de Base de Datos
 // Práctica 02: Estimación del tamaño de una base de datos
 // PIÑA GUERRERO VIVIANA
@@ -68,4 +68,4 @@ void calcularTam(int registros, int rxpag){
 	printf("\t\tTamano de una pagina: %d bytes\n", tamPag);
 	printf("\t\tTamano de la base de datos: %d bytes\n", tamBD);	
 }
-`
+```
